@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Some News</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_website">Article Website</string>
+    <string name="title_activity_articles">Articles</string>
+    <string name="not_yet_made">Not yet made</string>
+    <string name="home">Home</string>
+    <string name="categories">Categories</string>
+</resources>
